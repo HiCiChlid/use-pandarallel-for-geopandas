@@ -1,5 +1,5 @@
 # Use-pandarallel-for-geopandas
-`pandarallel` (https://github.com/nalepae/pandarallel) is an effective tool for multi-processing in Panda. However, Geopandas's spatial computation is not supported. This project provides a quick instruction for a solution to make Geopandas available.
+`pandarallel` (https://github.com/nalepae/pandarallel) is an effective tool for multi-processing in Pandas. However, Geopandas's spatial computation is not supported. This project provides a quick instruction for a solution to make Geopandas available.
 
 ## Warnings
 1. The method will create a new folder named "/mnt/ramdisk", and the files in "/mnt/ramdisk" and "/dev/shm" will be deleted. 
